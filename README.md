@@ -2,7 +2,7 @@
 
 > Aplicación web interactiva, intuitiva, moderna y sincronizada en tiempo real para organizar las citas, reuniones, tareas y compromisos del hogar entre **Papá y Mamá**, promoviendo el equilibrio de la carga mental y evitando la sobrecarga de actividades.
 
----
+--- 
 
 ## 🌟 Funcionalidades Principales
 
